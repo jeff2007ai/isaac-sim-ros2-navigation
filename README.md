@@ -406,7 +406,9 @@ ros2 param get /bt_navigator use_sim_time
 
 ## Contributions
 
-robocademy.com
+## Contributions
+
+[robocademy.com](https://www.robocademy.com)
 
 ## References
 
